@@ -30,7 +30,7 @@ python password_checker.py
 ```
 A GUI window will appear where you can enter your password and check its strength.
 
-Password Strength Criteria
+## Password Strength Criteria
 
 The password is evaluated based on the following:
 
