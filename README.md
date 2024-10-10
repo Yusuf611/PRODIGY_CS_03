@@ -34,20 +34,20 @@ Password Strength Criteria
 
 The password is evaluated based on the following:
 
-Length: Must be at least 8 characters.
+- Length: Must be at least 8 characters.
 
-Lowercase Letters: Should contain at least one lowercase letter.
+- Lowercase Letters: Should contain at least one lowercase letter.
 
-Uppercase Letters: Should contain at least one uppercase letter.
+- Uppercase Letters: Should contain at least one uppercase letter.
 
-Numbers: Should contain at least one digit.
+- Numbers: Should contain at least one digit.
 
-Special Characters: Should contain at least one special character (e.g., @, #, $, etc.).
+- Special Characters: Should contain at least one special character (e.g., @, #, $, etc.).
 
 The password can be classified into the following categories:
 
-Strong: Meets all the criteria.
+- Strong: Meets all the criteria.
 
-Moderate: Misses one criterion.
+- Moderate: Misses one criterion.
 
-Weak: Misses two or more criteria.
+- Weak: Misses two or more criteria.
